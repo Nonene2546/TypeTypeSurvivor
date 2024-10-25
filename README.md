@@ -16,3 +16,8 @@
 4. Press **Enter** again to damage the enemies and return to moving your character.
 
 Challenge yourself to survive as long as possible while improving your typing skills!
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/TypeTypeSurvivor.git
+2. Run main.exe file
